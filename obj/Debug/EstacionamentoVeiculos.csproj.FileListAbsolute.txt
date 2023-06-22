@@ -1,0 +1,8 @@
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\obj\Debug\EstacionamentoVeiculos.csproj.AssemblyReference.cache
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\obj\Debug\EstacionamentoVeiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\obj\Debug\EstacionamentoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\bin\Debug\EstacionamentoVeiculos.exe.config
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\bin\Debug\EstacionamentoVeiculos.exe
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\bin\Debug\EstacionamentoVeiculos.pdb
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\obj\Debug\EstacionamentoVeiculos.exe
+C:\Users\natan\source\repos\EstacionamentoVeiculos\EstacionamentoVeiculos\obj\Debug\EstacionamentoVeiculos.pdb
